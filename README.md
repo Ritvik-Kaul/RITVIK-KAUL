@@ -19,7 +19,7 @@ I build things when I don’t know how else to express what I’m thinking.
 ## ⚡ What I’m Doing Right Now
 
 * Learning more about **Artificial Intelligence & Machine Learning**
-* Building beginner-friendly projects to strengthen fundamentals
+* Building beginner-friendly projects to strengthen fundamentals 
 * Trying to merge **music + tech** into something meaningful
 
 ---
