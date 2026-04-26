@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hey, I'm Ritvik 👋
 
-<!--
-**Ritvik-Kaul/RITVIK-KAUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎸 Developer | 🎶 Musician | 🤖 AIML Student
 
-Here are some ideas to get you started:
+I don’t just write code.
+I build things when I don’t know how else to express what I’m thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+* 🎓 B.Tech CSE (AIML)
+* 💻 Exploring Python, AI, and real-world projects
+* 🎸 Guitarist & music creator
+* 🌙 I build most of my ideas late at night
+
+---
+
+## ⚡ What I’m Doing Right Now
+
+* Learning more about **Artificial Intelligence & Machine Learning**
+* Building beginner-friendly projects to strengthen fundamentals
+* Trying to merge **music + tech** into something meaningful
+
+---
+
+## 🚀 Projects You Should Check
+
+* 🎮 Tic Tac Toe (Tkinter GUI)
+* 🎵 Java Music Player
+* 🔄 Unit Converter (Python + Tkinter)
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Python, Java
+* 🧠 Basics of Machine Learning
+* 🎨 Tkinter (GUI Development)
+
+---
+
+## 📈 Goals
+
+* Build real AI-based applications
+* Improve problem-solving skills
+* Create something that actually impacts people
+
+---
+
+## 🎧 Fun Fact
+
+If I’m not coding, I’m probably playing guitar or thinking about a song idea.
+
+---
+
+## 📫 Connect With Me
+
+* Instagram: (your link)
+* GitHub: You’re already here :)
+
+---
+
+*"Still learning. Still building. Still figuring things out."*
